@@ -15,7 +15,7 @@
 - [ ] [I](https://codeforces.com/gym/105327/problem/I) - Ingredients that may Harm You
 - [ ] [J](https://codeforces.com/gym/105327/problem/J) - Journey through Colors
 - [ ] [K](https://codeforces.com/gym/105327/problem/K) - Karamell
-- [ ] [L](https://codeforces.com/gym/105327/problem/L) - Lecographically Maximum
+- [x] [L](https://codeforces.com/gym/105327/problem/L) - Lecographically Maximum
 
 ## 2023
 
