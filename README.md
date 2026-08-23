@@ -9,7 +9,7 @@
 - [ ] [C](https://codeforces.com/gym/105327/problem/C) - Couple of BipBop
 - [ ] [D](https://codeforces.com/gym/105327/problem/D) - Decrease the Boss Strength
 - [ ] [E](https://codeforces.com/gym/105327/problem/E) - Enigma of the Jewelry Case
-- [ ] [F](https://codeforces.com/gym/105327/problem/F) - Fractions are better when continued
+- [x] [F](https://codeforces.com/gym/105327/problem/F) - Fractions are better when continued
 - [ ] [G](https://codeforces.com/gym/105327/problem/G) - Geography of Rivers
 - [ ] [H](https://codeforces.com/gym/105327/problem/H) - Harmonics with Interference
 - [ ] [I](https://codeforces.com/gym/105327/problem/I) - Ingredients that may Harm You
