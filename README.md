@@ -4,7 +4,7 @@
 
 ### 1ª Fase
 
-- [ ] [A](https://codeforces.com/gym/105327/problem/A) - Attention to the Meeting
+- [X] [A](https://codeforces.com/gym/105327/problem/A) - Attention to the Meeting
 - [ ] [B](https://codeforces.com/gym/105327/problem/B) - Bacon Number
 - [ ] [C](https://codeforces.com/gym/105327/problem/C) - Couple of BipBop
 - [ ] [D](https://codeforces.com/gym/105327/problem/D) - Decrease the Boss Strength
